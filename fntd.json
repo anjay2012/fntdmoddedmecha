@@ -10986,7 +10986,7 @@
 "Glitched Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://16620268084",
-        "Rarity": "Nightmare",
+        "Rarity": "Cursed",
         "PlacePrice": 75,
         "Max": 1,
         "hitboxOffset": {
