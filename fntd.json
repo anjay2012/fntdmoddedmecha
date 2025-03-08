@@ -2086,11 +2086,11 @@
                 "Cooldown": 1.5,
                 "Poison": 100,
                 "PoisonTime": 3,
-                "Slow": 0.05,
+				"Slow": 0.05,
                 "SlowTime": 0.5
-            }
-        ]
-    },
+      }
+ ]
+},
     "Abyssal Foxy": {
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
