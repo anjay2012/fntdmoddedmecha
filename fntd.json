@@ -2053,7 +2053,7 @@
                 "Damage": 200,
                 "Cooldown": 3.5,
                 "Poison": 10,
-                "PoisonLength": 3
+                "PoisonTime": 3
             },
             {
                 "Price": 800,
@@ -2061,7 +2061,7 @@
                 "Damage": 225,
                 "Cooldown": 3,
                 "Poison": 15,
-                "PoisonLength": 3
+                "PoisonTimr": 3
             },
             {
                 "Price": 1000,
@@ -2069,7 +2069,7 @@
                 "Damage": 250,
                 "Cooldown": 3,
                 "Poison": 20,
-                "PoisonLength": 3
+                "PoisonTime": 3
             },
             {
                 "Price": 1200,
@@ -2077,7 +2077,17 @@
                 "Damage": 300,
                 "Cooldown": 2,
                 "Poison": 30,
-                "PoisonLength": 3
+                "PoisonTime": 3
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 1.5,
+                "Poison": 100,
+                "PoisonTime": 3
+                "Slow": 0.05,
+                "SlowTime": 0.5
             }
         ]
     },
