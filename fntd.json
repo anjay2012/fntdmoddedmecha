@@ -2085,7 +2085,7 @@
                 "Damage": 500,
                 "Cooldown": 1.5,
                 "Poison": 100,
-                "PoisonTime": 3
+                "PoisonTime": 3,
                 "Slow": 0.05,
                 "SlowTime": 0.5
             }
