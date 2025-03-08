@@ -2061,7 +2061,7 @@
                 "Damage": 225,
                 "Cooldown": 3,
                 "Poison": 15,
-                "PoisonTimr": 3
+                "PoisonTime": 3
             },
             {
                 "Price": 1000,
