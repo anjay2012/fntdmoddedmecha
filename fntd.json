@@ -2080,8 +2080,8 @@
                 "PoisonTime": 3
             },
             {
-                "Price": 1200,
-                "Range": 25,
+                "Price": 1500,
+                "Range": 30,
                 "Damage": 500,
                 "Cooldown": 1.5,
                 "Poison": 100,
